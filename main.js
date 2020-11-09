@@ -1,7 +1,7 @@
 // version 0:
 // console.log('\u0007');
 
-// Verison 1 ////////////////////////
+// Version 1 ////////////////////////
 // setTimeout(function() {
 //     console.log('3 seconds passed')
 // }, 3000)
